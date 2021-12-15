@@ -1,38 +1,15 @@
 # Olá!
-### Eu sou o Matheus (ou me chame de Pedroni, como preferir 😄). <br /> <br />
 
+🥇 Minha stack principal: `.ts` `.js` `.tsx` `.vue` `.scss` `.html` `.ex`
 
-💻 Atualmente sou Desenvolvedor Fullstack Júnior na Dataclick, utilizando Vue.js no frontend e Laravel no backend. <br /> <br />
-👨‍💻 Tenho conhecimento em: 
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-  ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  <br />
- 
-📘 Tenho interesse em: 
-  ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  <br /> <br />
+🆙 Atualmente meu foco está no frontend, com ReactJS/Next.js 💙, e em programação funcional com Elixir 💜
 
-[![mpedroni GitHub stats](https://github-readme-stats.vercel.app/api?username=mpedroni&show_icons=true&theme=dracula)](https://github.com/mpedroni/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpedroni&layout=compact&theme=dracula)](https://github.com/mpedroni/github-readme-stats)
+<br />
 
+👨‍💻 Desenvolvedor Fullstack Jr.
 
-## Sobre mim
+📅 Utilizando no dia-a-dia (profissionalmente): JavaScript, TypeScript, Vue.js, Laravel e PHP
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mpedroni)](https://github.com/mpedroni)
+<br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pedroni/)](https://www.linkedin.com/in/matheus-pedroni/)
-
-
-### Enjoy it!! o/
+🔗 [Mais sobre mim](https://mpedroni.me)
