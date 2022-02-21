@@ -2,7 +2,7 @@
 
 🥇 Minha stack principal: `.ts` `.js` `.tsx` `.vue` `.scss` `.html` `.ex`
 
-🆙 Atualmente meu foco está no frontend, com ReactJS/Next.js 💙, e em programação funcional com Elixir 💜
+🆙 Atualmente meu foco está no frontend, com ReactJS/Next.js 💙. Também estou estudando programação funcional com Elixir 💜
 
 <br />
 
