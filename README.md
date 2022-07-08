@@ -4,7 +4,7 @@ I'm a full-stack developer, working as front-end developer and migrating to back
 
 I've experience with Vue.js, ReactJS, Next.js, Node.js, JavaScript, TypeScript, Python, Django, Java and PHP. I also have knowledge about Docker, databases (MySQL and PostgreSQL), software tests (with Jest and JUnit), Linux and Git.
 
-Currently, I'm studying Test-Driven Development (applying on personal projects using TypeScript and Java), software architecture (currently studying the Clean Architecture's concepts) and software engeneering (programming good practices, clean code...).
+Currently, I'm studying Test-Driven Development (applying on personal projects using TypeScript and Java), software architecture (currently studying the Clean Architecture's concepts) and software engeneering (programming good practices, clean code, design patterns...).
 
 Interested in the topics of software architecture, software engineering and distributed systems.
 
