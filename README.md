@@ -1,11 +1,10 @@
 # Hello! \o
 
-I'm a full-stack developer (more expertise with frontend), currently working as front-end developer with Vue.js 💚 at Weni, an enterprise of the chatbots developing segment.
+I'm a full-stack developer, working as front-end developer and migrating to back-end.
 
-On the front-end, I've experience with Vue.js, ReactJS and Next.js, as well as JavaScript, TypeScript, CSS3 and HTML5.
-I've experience with Node.js and PHP (Laravel and Symfony) on the back-end, and I also have knowledge of Elixir and Phoenix.
+Currently, I'm studying Test-Driven Development (applying on personal projects using TypeScript and Java), software architecture (currently studying the Clean Architecture's concepts) and software engeneering (programming good practices, clean code...).
 
-I'm currently studying ReactJS and Nextjs 💙 in my free time and my focus is on front-end development.
+Interested in the topics of software architecture, software engineering and distributed systems.
 
 <br />
 
