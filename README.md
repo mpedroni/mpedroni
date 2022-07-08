@@ -1,6 +1,8 @@
 # Hello! \o
 
-I'm a full-stack developer, working as front-end developer and migrating to back-end.
+I'm a full-stack developer, working as front-end developer and migrating to back-end. 
+
+I've experience with Vue.js, ReactJS, Next.js, Node.js, JavaScript, TypeScript, Python, Django, Java and PHP. I also have knowledge about Docker, databases (MySQL and PostgreSQL), software tests (with Jest and JUnit), Linux and Git.
 
 Currently, I'm studying Test-Driven Development (applying on personal projects using TypeScript and Java), software architecture (currently studying the Clean Architecture's concepts) and software engeneering (programming good practices, clean code...).
 
