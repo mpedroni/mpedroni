@@ -27,7 +27,7 @@
 <details open>
 <summary>:books: Tech books I read in 2022</summary>
 
-- [ ] (reading) [Distributed Systems 3rd Edition](https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381&language=en_US), by Maarten Van Steen and Andrew S. Tanenbaum
+- [ ] (reading) [Distributed Systems 3rd Edition](https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381), by Maarten Van Steen and Andrew S. Tanenbaum
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/-/pt/dp/0201633612/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1659045339&sr=1-1&language=en_US), by Erich Gamma *et al*
 - [ ] [The Pragmatic Programmer: Your Journey To Mastery](https://www.amazon.com/-/pt/dp/0135957052/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1659045511&sr=1-1&language=en_US), by David Thomas and Andrew Hunt
 - [ ] [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com.br/Building-Microservices-Second-Sam-Newman/dp/1492034029/ref=pd_bxgy_img_sccl_2/139-7104005-8814030?pd_rd_w=82QYZ&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=QYZPQ4M51XVGP9TXN9R9&pd_rd_wg=E0RIo&pd_rd_r=82e1a9b1-3ccd-4814-b94c-b24303adbd88&pd_rd_i=1492034029&psc=1&language=en_US), by Sam Newman
