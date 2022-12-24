@@ -24,6 +24,7 @@
 <br />
 <br />
 
+<!--
 <details open>
 <summary>:books: Tech books I read in 2022</summary>
 
@@ -49,6 +50,7 @@
 </details>
 
 <br />
+!-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpedroni&theme=dracula&hide_border=true&layout=compact)](https://github.com/mpedroni)
 ![mpedroni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpedroni&theme=dracula&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats)
