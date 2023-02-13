@@ -1,12 +1,12 @@
 # Hello there! \o
 
-:sparkles: I'm a **full-stack developer** and **Computer Engineering** student from the University of Vale do Itajaí (UNIVALI).
+:sparkles: I'm a **full-stack developer** and **Computer Engineering** student from the University of Vale do Itajaí (UNIVALI), working as **Software Engineer** at @Rocketseat
 
-:gear: I'm experienced with Vue.js, ReactJS, Next.js, Node.js, JavaScript, TypeScript, Python, Django, Java and PHP. I also have knowledge in Docker, database (MySQL and PostgreSQL), unit testing (with Jest and JUnit), Linux and Git.
+:gear: I'm experienced with TypeScript, JavaScript, NestJS, Go and Java. I also have knowledge in Docker, databases (MySQL and PostgreSQL), unit testing (with Jest and JUnit), Linux and Git.
 
-:seedling: Studying **Test-Driven Development** (applying on personal projects using TypeScript and Java), **software architecture** (currently studying the Clean Architecture's concepts) and **software engineering** (good practices, clean code, design patterns...).
+:seedling: Currently studying **Domain-Driven Design**, **Event Storming**, **Java** with **Spring & Spring Boot** and some software engineering topics, such as **Design Patterns**, **Refactoring** and **Test-Driven Development**.
 
-:mag: Interested in the topics of **software architecture**, **software engineering** and **distributed systems**.
+:mag: Interested in the topics of **software architecture**, **software engineering**, **system design** and **distributed systems**.
 
 :link: How to reach me?
 
