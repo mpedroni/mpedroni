@@ -4,8 +4,6 @@
 
 :gear: I'm experienced with TypeScript, JavaScript, NestJS, Go and Java. I also have knowledge of Docker, databases (MySQL and PostgreSQL), unit testing (with Jest and JUnit), Linux, Git and front-end development (Vue, React and Next.js).
 
-:seedling: Currently studying **Domain-Driven Design**, **Event Storming**, **Java** with **Spring & Spring Boot** and other topics such as **Design Patterns**, **Refactoring** and **Test-Driven Development**.
-
 :mag: Interested in the topics of **software architecture**, **software engineering**, **system design** and **distributed systems**.
 
 :link: How to reach me?
