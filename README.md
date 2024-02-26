@@ -1,6 +1,6 @@
 # Hello there! \o
 
-:sparkles: I'm a **full-stack developer** and **Computer Engineering** student from the University of Vale do Itajaí (UNIVALI), working as **Software Engineer** at <a href="https://github.com/Rocketseat">@Rocketseat</a>.
+:sparkles: I'm a **full-stack developer** and **Computer Engineering** student from the University of Vale do Itajaí (UNIVALI).
 
 :gear: I'm experienced with TypeScript, JavaScript, NestJS, Go and Java. I also have knowledge of Docker, databases (MySQL and PostgreSQL), unit testing (with Jest and JUnit), Linux, Git and front-end development (Vue, React and Next.js).
 
