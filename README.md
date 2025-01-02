@@ -1,12 +1,23 @@
 # Hello there! \o
 
-:sparkles: I'm a **sofware engineer** and **Computer Engineering** student from the University of Vale do Itajaí (UNIVALI).
+👨‍💻 **Backend Software Engineer** with 5+ years of experience, passionate about building robust and scalable systems.  
 
-:gear: I'm experienced with TypeScript, JavaScript, NestJS, Go and Java. I also have knowledge of Docker, databases (MySQL and PostgreSQL), unit testing (with Jest and JUnit), Linux, Git and front-end development (Vue, React and Next.js).
+**Tech Stack:**  
+- **Backend:** Golang, Java (Spring Boot), Node.js, TypeScript  
+- **Databases:** PostgreSQL, MySQL  
+- **Frontend (additional experience):** Vue.js, React, HTML, CSS  
 
-☕ Currently, I am in the process of **migrating my main stack** from TypeScript to **Java & Spring**.
+**Interests:**  
+- Test-Driven Development (TDD)  
+- Domain-Driven Design (DDD)  
+- Code design and quality  
+- Software architecture  
+- Microservices  
+- Distributed systems  
 
-:mag: In addition to **Java**, I am enthusiastic about **software architecture**, **software design**, **software modeling topics** (such as Domain-Driven Design, SOLID principles, and design patterns), **automated testing**, **distributed systems** and **agile methodologies** like eXtreme Programming and Test-Driven Development.
+🌟 Focused on improving code design and quality while crafting scalable solutions. 
+
+Let's build something great together! 🚀  
 
 :link: How to reach me?
 
