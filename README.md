@@ -15,9 +15,7 @@
 - Microservices  
 - Distributed systems  
 
-🌟 Focused on improving code design and quality while crafting scalable solutions. 
-
-Let's build something great together! 🚀  
+🌟 Focused on improving code design and quality while crafting scalable solutions. Let's build something great together! 🚀
 
 :link: How to reach me?
 
